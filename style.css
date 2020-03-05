@@ -3,13 +3,14 @@ html, body {
 }
 
 body {
-    font: 20px Montserrat, sans-serif;
+    font: 20px Amatic, cs;
     line-height: 1.8;
     color: #f5f6f7;
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
+    color:#820043;
 }
 
 a {
@@ -35,7 +36,7 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #ff75aa; /* White */
     color: #555555;
 }
 
