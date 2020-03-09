@@ -3,9 +3,14 @@ html, body {
 }
 
 body {
-    font: 20px Amatic, cs;
+    font: 20px ;
     line-height: 1.8;
     color: #f5f6f7;
+    font-family:'Chakra Petch', sans-serif;
+}
+
+h1 {
+    color: #07c7d9;
 }
 
 p {
@@ -14,7 +19,8 @@ p {
 }
 
 a {
-    color: #2e72a1;
+    color: #770043;
+    font-size:18px;
 }
 
 #logo, .project-img {
